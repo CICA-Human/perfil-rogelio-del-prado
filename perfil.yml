@@ -8,8 +8,8 @@
 
 tratamiento: Dr.
 nombre: Rogelio del Prado Flores
-cargo: Profesor investigador de tiempo completo
-adscripcion: Centro de Investigación para la Comunicación Aplicada (CICA), Facultad de Comunicación
+cargo: Titular del Centro de Investigación para la Comunicación Aplicada (CICA)
+adscripcion: Editor jefe de la revista Sintaxis, Facultad de Comunicación
 institucion: Universidad Anáhuac México
 
 # Una sola oración que resuma tu línea de pensamiento.
@@ -32,7 +32,7 @@ temas:
 # Tu semblanza. Separa los párrafos con una línea en blanco.
 # Usa *asteriscos* para poner títulos de obras en cursivas.
 bio: |
-  Doctor en Filosofía por la Universidad Nacional Autónoma de México, con mención honorífica, y Medalla de Plata Alfonso Caso (UNAM, 2004). Desde 2012 es profesor investigador de tiempo completo en la Facultad de Comunicación de la Universidad Anáhuac México, donde forma parte del Centro de Investigación para la Comunicación Aplicada (CICA) y es editor de *Sintaxis*, la revista científica del Centro.
+  Doctor en Filosofía por la Universidad Nacional Autónoma de México, con mención honorífica, y Medalla de Plata Alfonso Caso (UNAM, 2004). Desde 2012 es profesor investigador de tiempo completo en la Facultad de Comunicación de la Universidad Anáhuac México, donde es titular del Centro de Investigación para la Comunicación Aplicada (CICA) y editor jefe de *Sintaxis*, la revista científica del Centro.
 
   Su trabajo cruza la filosofía con los estudios de comunicación. Ha escrito sobre los derechos de las audiencias, la ética en las redes sociales digitales, la justicia y el espacio público, y más recientemente sobre los dilemas éticos de la inteligencia artificial en el campo audiovisual.
 
@@ -41,7 +41,7 @@ bio: |
 distinciones:
   - Sistema Nacional de Investigadoras e Investigadores (SNII), Nivel II
   - Medalla de Plata Alfonso Caso, UNAM (2004)
-  - Editor de Sintaxis. Revista científica del Centro de Investigación para la Comunicación Aplicada
+  - Editor jefe de Sintaxis. Revista científica del Centro de Investigación para la Comunicación Aplicada
 
 # ── PERFILES ACADÉMICOS ──────────────────────────────────────
 # Pega el enlace completo. En ORCID basta el número.
@@ -177,4 +177,4 @@ formacion:
     nota: ""
 
 # Fecha de la última revisión de esta página (año-mes-día).
-actualizado: "2026-11-12"
+actualizado: "2026-11-26"
