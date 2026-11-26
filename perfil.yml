@@ -1,0 +1,180 @@
+# ─────────────────────────────────────────────────────────────
+#  TU PÁGINA DE INVESTIGADOR
+#  Este es el ÚNICO archivo que necesitas editar.
+#  Reglas: respeta los espacios al inicio de cada línea,
+#  y deja entre comillas los textos que lleven dos puntos (:).
+#  Si un dato no aplica, déjalo vacío ("") y no aparecerá.
+# ─────────────────────────────────────────────────────────────
+
+tratamiento: Dr.
+nombre: Rogelio del Prado Flores
+cargo: Profesor investigador de tiempo completo
+adscripcion: Centro de Investigación para la Comunicación Aplicada (CICA), Facultad de Comunicación
+institucion: Universidad Anáhuac México
+
+# Una sola oración que resuma tu línea de pensamiento.
+frase: Estudia la comunicación como una responsabilidad ética frente al otro, y lo que esa responsabilidad exige de los medios, las redes y la inteligencia artificial.
+
+# Foto: pega el enlace de tu foto (por ejemplo, la de Anáhuac Landscape),
+# o sube un archivo a tu carpeta y escribe aquí su nombre (ej. foto.jpg).
+# Se muestra en círculo; funciona mejor una foto cuadrada con la cara al centro.
+foto: "https://cdn.sanity.io/images/ih7tco51/production/42bd3bfef0924b87b6f46a7b878e6ba4e2484cc2-600x770.jpg?w=480&h=480&fit=crop&crop=top&q=80&auto=format"
+
+# Color de acento de tu página (opcional). Por defecto, naranja suave.
+color: "#F29B66"
+
+temas:
+  - Ética de la comunicación
+  - Filosofía política
+  - Derechos de las audiencias
+  - Cultura digital e inteligencia artificial
+
+# Tu semblanza. Separa los párrafos con una línea en blanco.
+# Usa *asteriscos* para poner títulos de obras en cursivas.
+bio: |
+  Doctor en Filosofía por la Universidad Nacional Autónoma de México, con mención honorífica, y Medalla de Plata Alfonso Caso (UNAM, 2004). Desde 2012 es profesor investigador de tiempo completo en la Facultad de Comunicación de la Universidad Anáhuac México, donde forma parte del Centro de Investigación para la Comunicación Aplicada (CICA) y es editor de *Sintaxis*, la revista científica del Centro.
+
+  Su trabajo cruza la filosofía con los estudios de comunicación. Ha escrito sobre los derechos de las audiencias, la ética en las redes sociales digitales, la justicia y el espacio público, y más recientemente sobre los dilemas éticos de la inteligencia artificial en el campo audiovisual.
+
+  Es autor de *Márgenes de la comunicación* (2024), *Ética de la comunicación* (2018) y *Políticas para la justicia y la comunicación* (2016), y coordinador de *Ética y los derechos de las audiencias* (2016) y *Ética y redes sociales* (2014). Imparte ética en el Doctorado en Investigación de la Comunicación.
+
+distinciones:
+  - Sistema Nacional de Investigadoras e Investigadores (SNII), Nivel II
+  - Medalla de Plata Alfonso Caso, UNAM (2004)
+  - Editor de Sintaxis. Revista científica del Centro de Investigación para la Comunicación Aplicada
+
+# ── PERFILES ACADÉMICOS ──────────────────────────────────────
+# Pega el enlace completo. En ORCID basta el número.
+perfiles:
+  orcid: 0000-0002-2181-2724
+  google_scholar: https://scholar.google.com.mx/citations?user=Fhct5XAAAAAJ&hl=es
+  scopus: https://www.scopus.com/authid/detail.uri?authorId=56245225500
+  researchgate: ""
+  academia_edu: ""
+  linkedin: ""
+  sitio_web: ""
+
+contacto:
+  correo: rogelio.delprado2@anahuac.mx
+  direccion: Av. Universidad Anáhuac 46, Lomas Anáhuac, Huixquilucan, Estado de México, 52786
+
+# ── PUBLICACIONES ────────────────────────────────────────────
+# Copia un bloque completo (desde el guion "-") para agregar una nueva.
+# tipo: libro | articulo | capitulo | editorial | otro
+# Para resaltar una obra en grande, agrégale: destacada: true
+publicaciones:
+  - anio: 2025
+    tipo: capitulo
+    titulo: Ethical considerations in the use of artificial intelligence in the audiovisual field
+    autores: R. I. Arévalo-Martínez, R. del Prado Flores y R. I. Prado-Hurtado
+    fuente: "En The AI Revolution (obra colectiva)"
+    enlace: ""
+
+  - anio: 2025
+    tipo: editorial
+    titulo: "Carta editorial. Nuevos paradigmas de la comunicación y la inteligencia artificial"
+    autores: R. del Prado Flores
+    fuente: Sintaxis, año 8, núm. 14, pp. 9-13
+    enlace: https://doi.org/10.36105/stx.2025n14.01
+
+  - anio: 2024
+    tipo: libro
+    titulo: "Márgenes de la comunicación: constitución ética de la intersubjetividad"
+    autores: R. del Prado Flores
+    fuente: Tirant lo Blanch, México
+    enlace: ""
+    # destacada: true la muestra en grande. Solo una obra puede llevarlo.
+    destacada: true
+    resumen: Propone entender la comunicación como responsabilidad hacia el otro y como base de la comunidad política.
+
+  - anio: 2023
+    tipo: articulo
+    titulo: "Bienestar y temáticas psicosociales invisibilizadas en las mejores empresas para trabajar de América Latina: una visión desde su comunicación organizacional digital"
+    autores: R. I. Arévalo-Martínez y R. del Prado Flores
+    fuente: Revista Internacional de Relaciones Públicas, 13(26), pp. 81-104
+    enlace: https://doi.org/10.5783/revrrpp.v13i26.839
+
+  - anio: 2021
+    tipo: articulo
+    titulo: "Ética de la comunicación: inmunología social y política"
+    autores: R. del Prado Flores
+    fuente: Sintaxis, número especial por el 50 aniversario de la Facultad de Comunicación
+    enlace: https://revistas.anahuac.mx/sintaxis/article/download/1023/927
+
+  - anio: 2020
+    tipo: articulo
+    titulo: Representaciones fotográficas de la sociedad del cansancio y la pobreza
+    autores: R. del Prado Flores y coautores
+    fuente: Revista Latina de Comunicación Social, pp. 291-312
+    enlace: ""
+
+  - anio: 2019
+    tipo: articulo
+    titulo: "Ética y responsabilidad en la comunicación de instituciones de educación superior a través de Internet: un análisis comparativo global"
+    autores: R. I. Arévalo Martínez, R. del Prado Flores y V. Bon Pereira
+    fuente: Global Media Journal México, 15, pp. 41-64
+    enlace: ""
+
+  - anio: 2019
+    tipo: articulo
+    titulo: "Los derechos de las audiencias: una mirada deconstructiva a los principios de actuación de televisoras en América Latina"
+    autores: R. I. Arévalo Martínez y R. del Prado Flores
+    fuente: Sintaxis, núm. 2
+    enlace: ""
+
+  - anio: 2018
+    tipo: libro
+    titulo: Ética de la comunicación
+    autores: R. del Prado Flores
+    fuente: Gedisa y Universidad Anáhuac México
+    enlace: ""
+
+  - anio: 2016
+    tipo: libro
+    titulo: "Políticas para la justicia y la comunicación. Más allá del pragmatismo y la deconstrucción"
+    autores: R. del Prado Flores
+    fuente: Limusa y Universidad Anáhuac México
+    enlace: ""
+
+  - anio: 2016
+    tipo: libro
+    titulo: Ética y los derechos de las audiencias
+    autores: R. del Prado Flores (coord.)
+    fuente: Limusa y Universidad Anáhuac México
+    enlace: ""
+
+  - anio: 2014
+    tipo: libro
+    titulo: Ética y redes sociales
+    autores: R. del Prado Flores (coord.)
+    fuente: Tirant Humanidades y Universidad Anáhuac México
+    enlace: ""
+
+  - anio: 2014
+    tipo: articulo
+    titulo: "Las audiencias activas en la regulación de los medios: la dialéctica consumidor-ciudadano en España y México"
+    autores: C. Fuente Cobo, R. del Prado Flores y coautores
+    fuente: Comunicar, 43, pp. 91-99
+    enlace: ""
+
+# Si lo cambias a true, la página también trae tus publicaciones
+# directamente de tu registro público de ORCID y las suma a esta lista.
+orcid_automatico: false
+
+# ── FORMACIÓN ────────────────────────────────────────────────
+formacion:
+  - anio: 2009
+    titulo: Doctorado en Filosofía
+    institucion: Universidad Nacional Autónoma de México
+    nota: Mención honorífica
+  - anio: 2004
+    titulo: Maestría en Filosofía
+    institucion: Universidad Nacional Autónoma de México
+    nota: ""
+  - anio: 2001
+    titulo: Licenciatura en Filosofía
+    institucion: Universidad Nacional Autónoma de México
+    nota: ""
+
+# Fecha de la última revisión de esta página (año-mes-día).
+actualizado: "2026-11-12"
