@@ -163,6 +163,10 @@ orcid_automatico: false
 
 # ── FORMACIÓN ────────────────────────────────────────────────
 formacion:
+  - anio: 2024
+    titulo: Maestría en Psicoanálisis
+    institucion: Dimensión Psicoanalítica
+    nota: ""
   - anio: 2009
     titulo: Doctorado en Filosofía
     institucion: Universidad Nacional Autónoma de México
@@ -176,5 +180,10 @@ formacion:
     institucion: Universidad Nacional Autónoma de México
     nota: ""
 
+  - anio: 1993
+    titulo: Bachillerato Pontificio en Filosofía
+    institucion: Seminario Conciliar de México
+    nota: ""
+
 # Fecha de la última revisión de esta página (año-mes-día).
-actualizado: "2026-11-26"
+actualizado: "2026-11-27"
